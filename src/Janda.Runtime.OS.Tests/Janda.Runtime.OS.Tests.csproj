@@ -2,10 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-
     <IsPackable>false</IsPackable>
-
     <RootNamespace>Janda.Runtime.Tests</RootNamespace>
+    <Authors>Matt Janda</Authors>
   </PropertyGroup>
 
   <ItemGroup>
