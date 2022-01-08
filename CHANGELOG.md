@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/Jandini/Janda.Runtime.OS/compare/1.1.0...1.2.0) (2022-01-08)
+
+
+### Features
+
+* Upgrade actions to net6.0 ([bc955e2](https://github.com/Jandini/Janda.Runtime.OS/commit/bc955e2c581717499f01a7de82daf39d999f53d6))
+* Upgrade tests to net6.0 ([58efa9c](https://github.com/Jandini/Janda.Runtime.OS/commit/58efa9c5ce4f6cf638e430b2c3c254e2b882fcd3))
+* Upgrade to net6.0 ([58d17b0](https://github.com/Jandini/Janda.Runtime.OS/commit/58d17b0f90af72d07f2620e26bb1b1f937c2b580))
+
 ## [1.1.0](https://github.com/Jandini/Janda.Runtime.OS/compare/1.0.0...1.1.0) (2020-07-17)
 
 
