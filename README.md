@@ -1,6 +1,6 @@
 # Janda.Runtime.OS
 
-[![.NET](https://github.com/Jandini/Janda.Runtime.OS/actions/workflows/dotnet.yml/badge.svg)](https://github.com/Jandini/Janda.Runtime.OS/actions/workflows/dotnet.yml)
+[![.NET](https://github.com/Jandini/Janda.Runtime.OS/actions/workflows/build.yml/badge.svg)](https://github.com/Jandini/Janda.Runtime.OS/actions/workflows/build.yml)
 
 Simplify code that executes based on the runtime platform.
 
